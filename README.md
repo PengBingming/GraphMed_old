@@ -7,8 +7,8 @@ Mutil-language file is placed in the GraphMed/lang/info/ directory
 
 Tools code are placed in the GraphMed/module directory
 
-> Demo data for each visualization function (files are placed in the GraphMed/www/ directory)
-deseq2/exp.csv and group.csv for DESeq2
-heatmap/heatmap.csv for heatmap.
-......
+Demo data for each visualization function (files are placed in the GraphMed/www/ directory)
+> deseq2/exp.csv and group.csv for DESeq2
+> heatmap/heatmap.csv for heatmap.
+> ......
 
