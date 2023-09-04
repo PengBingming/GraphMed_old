@@ -1,7 +1,7 @@
 # GraphMed
 A Shiny Web Application to Analyze and Visualize Medical Data
 
-This tool is free at website: [https://shiny.chcmu.com.cn/graphmed/](https://shiny.chcmu.com.cn/graphmed/)
+This application is free at website: [https://shiny.chcmu.com.cn/graphmed/](https://shiny.chcmu.com.cn/graphmed/)
 
 Mutil-language file is placed in the GraphMed/lang/info/ directory
 
