@@ -12,3 +12,8 @@ Demo data for each visualization function (files are placed in the GraphMed/www/
 > heatmap/heatmap.csv for heatmap.  
 > ......  
 
+install needed packages, such as:
+install.packages(c("shiny","ggplot2","DESeq2","RColorBrewer","DT","pheatmap","reshape"))
+
+If you were ready for all packages, You may now run the shiny app with just one command in R:
+shiny::runGitHub("GraphMed_old","PengBingming")
